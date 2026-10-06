@@ -1,10 +1,10 @@
 # Tasks: Fix the typo in the README
 
-- [ ] T001 Replace "applicaton" with "application" on line 3 of `README.md` (FR-001).
-- [ ] T002 Verify `git diff --stat` shows `README.md` only, with one line changed (FR-002, FR-003).
-- [ ] T003 Verify `grep -rn applicaton` finds no occurrence outside the specification
+- [x] T001 Replace "applicaton" with "application" on line 3 of `README.md` (FR-001).
+- [x] T002 Verify `git diff --stat` shows `README.md` only, with one line changed (FR-002, FR-003).
+- [x] T003 Verify `grep -rn applicaton` finds no occurrence outside the specification
       and clarification documents.
-- [ ] T004 Run `npm run build` and `npm test` as a regression guard; both must pass.
+- [x] T004 Run `npm run build` and `npm test` as a regression guard; both must pass.
 
 ## Test plan
 

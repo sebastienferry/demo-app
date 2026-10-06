@@ -1,6 +1,6 @@
 # demo-app
 
-A small web applicaton that renders a single page with a greeting and a footer.
+A small web application that renders a single page with a greeting and a footer.
 It has no runtime dependency and builds with Node.js alone.
 
 ## Requirements
