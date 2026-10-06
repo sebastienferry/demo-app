@@ -1,0 +1,14 @@
+{
+  "name": "demo-app",
+  "version": "1.2.0",
+  "private": true,
+  "type": "module",
+  "description": "A small single-page web application.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
